@@ -1,0 +1,14 @@
+{
+  "name": "nomodonom",
+  "version": "5.0.0",
+  "description": "Dodoool ala",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
